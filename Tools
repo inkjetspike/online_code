@@ -1,0 +1,22 @@
+"""python search engine:
+http://nullege.com/
+http://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
+http://www.devopsessentialsaws.com/
+https://github.com/stelligent/devops-essentials/
+https://www.fullstackpython.com/devops.html
+https://learn.simpleprogrammer.com/dashboard - live.com, inkjetspike
+https://simpleprogrammer.com/resources/#career-tools
+https://www.youtube.com/watch?v=PxGGeNEdb3E
+https://www.audible.com/pd/Business/The-Complete-Software-Developers-Career-Guide-Audiobook/B078JDMDNV - book
+https://www.youtube.com/watch?v=xBOqwRRj82A - 29 side projects
+or create a new repository on the command line
+echo "# codecademy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/inkjetspike/codecademy.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/inkjetspike/codecademy.git
+git push -u origin master
+"""
