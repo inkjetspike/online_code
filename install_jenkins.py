@@ -1,5 +1,6 @@
 """Jenkins installation:
 
+sudo apt-get install default-jdk
 sudo apt-get update
 sudo apt-get install apache2
 sudo wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
@@ -11,6 +12,6 @@ Username: solidsnake
 Password: googleit
 Name:DJ
 Email: Durellhart@live.com
-Jenkins url: http://18.233.160.221:8080
+Jenkins url: http://18.205.152.94:8080
 
 
